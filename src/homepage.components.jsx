@@ -11,30 +11,6 @@ const HomePage = () => (
           <span className="title">shop</span>
         </div>
       </div>
-      <div className="menu-item">
-        <div className="content">
-          <h1 className="title">Jacket</h1>
-          <span className="title">shop</span>
-        </div>
-      </div>
-      <div className="menu-item">
-        <div className="content">
-          <h1 className="title">Sneakers</h1>
-          <span className="title">shop</span>
-        </div>
-      </div>
-      <div className="menu-item">
-        <div className="content">
-          <h1 className="title">Women's</h1>
-          <span className="title">shop</span>
-        </div>
-      </div>
-      <div className="menu-item">
-        <div className="content">
-          <h1 className="title">Men's</h1>
-          <span className="title">shop</span>
-        </div>
-      </div>
     </div>
   </div>
 );
